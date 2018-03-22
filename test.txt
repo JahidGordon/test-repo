@@ -1,4 +1,5 @@
 this is my first file
 Someone added this in for you
 Inserted new line three
+this should result in a merge conflict
 This is the third line
